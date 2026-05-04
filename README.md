@@ -14,8 +14,8 @@ A collection of Jupyter Notebooks explaining and implementing core quantum compu
 
 1) Clone the repository:
 
-git clone https://github.com/ovaselis/QuantumComputingAlgorithms-LV-.git
-cd QuantumComputingAlgorithms-LV-
+git clone https://github.com/ovaselis/QuantumComputingAlgorithms.git
+cd QuantumComputingAlgorithms
 
 2) (Recommended) Create virtual environment
 
